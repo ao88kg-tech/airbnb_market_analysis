@@ -80,16 +80,25 @@ Se observó que los alojamientos más costosos no necesariamente son los que rec
 
 ---
 
-## Visualizaciones
+## 📷 Visualizaciones
 
-El proyecto incluye análisis visual sobre:
+### Distribución de precios
+![Distribución de precios](images/PRICE%20DISTRIBUTION.png)
 
-* Distribución de precios.
-* Precio promedio por borough.
-* Distribución por tipo de alojamiento.
-* Precio promedio por tipo de alojamiento.
-* Popularidad por borough.
-* Relación entre precio y número de reseñas.
+### Precio promedio por borough
+![Precio promedio por borough](images/AVERAGE%20AIRBNB%20PRICE%20BY%20BOROUGH.png)
+
+### Distribución por tipo de alojamiento
+![Distribución por tipo de alojamiento](images/DISTRIBUTION%20OF%20AIRBNB%20LISTINGS%20BY%20ROOM%20TYPE.png)
+
+### Precio promedio por tipo de alojamiento
+![Precio promedio por tipo de alojamiento](images/AVERAGE%20PRICE%20BY%20ROOM%20TYPE.png)
+
+### Reseñas promedio por borough
+![Reseñas promedio por borough](images/AVERAGE%20NUMBER%20OF%20REVIEWS%20BY%20BOROUGH.png)
+
+### Precio vs número de reseñas
+![Precio vs número de reseñas](images/PRICE%20VS%20NUMBER%20OF%20REVIEWS.png)
 
 ---
 
