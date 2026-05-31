@@ -1,4 +1,4 @@
-# Análisis del Mercado de Airbnb en Nueva York
+# 🏠 Análisis del Mercado de Airbnb en Nueva York
 
 ## Descripción del Proyecto
 
